@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">🚀🚀🚀 <br>
-I majored in visual design and was building a career as a web designer.
+I majored in visual design and was building a career as a web designer.<br>
 Now, I'm falling for the charm of development and developing it step by step.</p>
 
 <p align="center">If I have a small goal... 😁<br>
@@ -24,5 +24,7 @@ My goal is to grow up so that I am not ashamed of introducing myself as a develo
 
 ---
 
-🌱 I’m currently learning front-end development.
-🔭 I'm looking for a job.
+- 🌱 I'm growing for the job I want.
+- 🔭 I’m currently working on front end development.
+- 🤔 I’m looking for help with Framework, Typescript...
+- ⚡ Fun fact: I have curly hair.
