@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm NINE
+<h3 align="center">👋 Hi there! I'm NINE</h3>
 
 <!--
 **NINE-J/NINE-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ I'm a front-end developer. 
-
-
-🚀🚀🚀
+<p align="center">🚀🚀🚀 <br>
 I majored in visual design and was building a career as a web designer.
-Now, I'm falling for the charm of development and developing it step by step.
+Now, I'm falling for the charm of development and developing it step by step.</p>
 
-If I have a small goal... 😁
-My goal is to grow up so that I am not ashamed of introducing myself as a developer!
+<p align="center">If I have a small goal... 😁<br>
+My goal is to grow up so that I am not ashamed of introducing myself as a developer!</p>
 
 ---
+
+🌱 I’m currently learning front-end development.
+🔭 I'm looking for a job.
