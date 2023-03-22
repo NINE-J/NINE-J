@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">🚀🚀🚀 <br>
-I majored in visual design and was building a career as a web designer.<br>
-Now, I'm falling for the charm of development and developing it step by step.</p>
-
-<p align="center">If I have a small goal... 😁<br>
-My goal is to grow up so that I am not ashamed of introducing myself as a developer!</p>
+반갑습니다.<br>
+시각정보디자인을 전공하고 웹디자인의 경력과 함께<br>
+현재는 프론트엔드 개발을 즐기고 있는 NINE입니다.
+</p>
 
 ---
 
-- 🌱 I'm growing for the job I want.
-- 🔭 I’m currently working on front end development.
-- 🤔 I’m looking for help with Framework, Typescript...
-- ⚡ Fun fact: I have curly hair.
+- 🌱 더 발전하고 싶은 욕망이 큽니다.
+- 🔭 프론트엔드 개발을 공부하고 있습니다. [Vue, React, Svelte, ...]
+- ⚡ CSS를 광적으로 집착합니다.
+- 😎 자연 곱슬입니다.
