@@ -13,14 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 반갑습니다!
-<p align="center">
-  프론트엔드 개발자 NINE입니다.<br>
-  시각정보디자인 배경과 다양한 업무 경험을 통한 시너지를 기대해주세요. 😉
-</p>
+
+# Fullstack DEV 🧑‍💻
+## Front-end
+Vue, React, Svelte, TS, JS, CSS, HTML
+
+## Back-end
+Spring, Java, Oracle, MSSQL, PostgreSQL
+
+## UI/UX
+Visual Information Design,
+XD, Figma, Zeplin, Phsothop, Illustrator
 
 ---
 
-- 🌱 스펙트럼을 넓혀왔고 이젠 하나의 기술을 심도 있게 공부하고 있습니다.
-- 🔭 FrameWork, JS, TS를 공부하고 있습니다.
+- 🧑‍💻 넓은 스펙트럼, 백엔드에 깊게 빠져들고 있습니다.
 - ⚡ CSS 광적으로 집착합니다.
 - 😎 자연 곱슬입니다.
