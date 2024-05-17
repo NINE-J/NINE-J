@@ -12,14 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 반갑습니다!
-
 # Fullstack DEV 🧑‍💻
-## Front-end
-Vue, React, Svelte, TS, JS, CSS, HTML
-
-## Back-end
-Spring, Java, Oracle, MSSQL, PostgreSQL
+- **Front-end:** Vue, React, Svelte, TS, JS, CSS, HTML
+- **Back-end:** Spring, Java, Oracle, MSSQL, PostgreSQL
 
 ## UI/UX
 Visual Information Design,
@@ -27,6 +22,7 @@ XD, Figma, Zeplin, Phsothop, Illustrator
 
 ---
 
-- 🧑‍💻 넓은 스펙트럼, 백엔드에 깊게 빠져들고 있습니다.
-- ⚡ CSS 광적으로 집착합니다.
-- 😎 자연 곱슬입니다.
+- 🧑‍💻 백엔드 개발자로 근무 중
+- ✏️ 프론트엔드 깊게 공부 중
+- ⚡ CSS 광적으로 집착함
+- 😎 자연 곱슬임.
