@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Fullstack DEV 🧑‍💻
-- **Front-end:** Vue, React, Svelte, TS, JS, CSS, HTML
-- **Back-end:** Spring, Java, Oracle, MSSQL, PostgreSQL
+- **Front-end:** Vue, React, Angular, Svelte, TS, JS, CSS, HTML
+- **Back-end:** Spring, Java, Oracle, MSSQL, PostgreSQL, MongoDB, Node, Express
+- **ETC:** Vercel, Netlify, AWS, Tomcat
 
 ## UI/UX
 Visual Information Design,
