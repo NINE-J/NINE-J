@@ -55,8 +55,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 🧑‍💻 풀스택 꿈꾸는 중
-- ✏️ 프론트엔드 깊게 공부 중
-- ⚡ CSS 광적으로 집착함
-- 🔨 알고리즘 뽀개기 중
+- 🧑‍💻 풀스택 개발자로 근무 중
+- 🧑‍💻 JS Specialize
+- 🧑‍💻✅ CSS Master
 - ✨ 자연 곱슬임.
