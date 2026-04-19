@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 
 ---
 
-- 풀스택 개발자로 근무 중
+- T-shaped Developer (Specializing in Backend)
 - JS Specialize & CSS Master
